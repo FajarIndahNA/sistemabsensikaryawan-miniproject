@@ -1,0 +1,27 @@
+PRAK TUBES
+
+KARYAWAN
+- IdKaryawan
+- NamaKaryawan
+
+- Jabatan
+- Tanggal Masuk
+- divisi
+
+Divisi
+- IdDivisi
+- NamaDivisi
+
+user
+- username
+- password
+- nama
+- status Administrator/Member
+Tabel Presensi
+
+ALUR
+Administrator
+Login-Admin.php-divisi.php-logout.php
+
+member/karyawan
+login-karyawan.php-logout
